@@ -1,0 +1,18 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Palafx/sample",
+			"repo_name": "EP Customs sample cards",
+			"repo_path": "./repositories/EPSampleCustoms",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/Palafx/fieldpics",
+			"repo_name": "EP Custom Field pictures",
+			"repo_path": "./repositories/field",
+			"should_update": true,
+			"should_read": true
+		}  
+	]
+}
